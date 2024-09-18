@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey There! 👋 Welcome to my GitHub<br><br>I am Jeeya Sharma, a passionate learner and tech enthusiast who enjoys working on new projects and has a zeal to work hard.<br><br><br>🌟About Me:<br>I am currently working on a front-end project called SecureX which is a secure chat website.<br>I am always keen to learn new tech related stuff and grow.<br>At the moment I am also learning and practicing C++.<br>Let's connect and work on new project ideas.<br><br>
+Hey There! 👋 Welcome to my GitHub<br><br>I am Jeeya Sharma, a passionate learner and tech enthusiast who enjoys working on new projects and has a zeal to work hard.<br><br><br>🌟About Me:<br>I am currently working on a front-end project called SecureX which is a secure chat website and am always keen to learn new tech related stuff and grow. At the moment I am also learning and practicing C++.🌐Let's connect and work on new project ideas.<br><br>
 
 
 ## 🌐 Socials:
